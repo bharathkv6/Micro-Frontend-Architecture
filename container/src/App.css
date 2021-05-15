@@ -1,0 +1,10 @@
+.App {
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto;
+}
